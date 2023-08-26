@@ -3,7 +3,8 @@
 - 👨‍💻 At the moment I'm developing mostly in Python, below there is a chart of my most used languages across public repos.
 - 🆕 Other technologies I'm exploring currently:
   - Apache Airflow to manage data pipelines.
-  - Elixir programming language with Phoenix Framework.
+  - Machine Learning models to improve phishing and/or malware detection.
+  - Profiling and monitoring tools.
 
  - - - - - - -
  
