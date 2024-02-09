@@ -5,11 +5,11 @@
   <tr>
     <td valign="middle" style="vertical-align: middle;">
       
-    - 👀 I’m mostly interested in Data Engineering and Information Security topics.
+    - 👀 I’m mostly interested in Data Engineering and InfoSec topics.
     - 👨‍💻 At the moment I'm developing mostly in Python.
-    - 🆕 Technologies I'm exploring currently:
+    - 🆕 Technologies I'm currently exploring:
       - Apache Airflow to manage data pipelines.
-      - Machine Learning models to improve phishing and/or malware detection.
+      - Machine Learning models to improve phishing detection.
       - Data oriented applications powered by Streamlit.
       - Profiling and monitoring tools.
         
